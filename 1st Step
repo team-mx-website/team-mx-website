@@ -1,0 +1,21 @@
+team-mx-website/
+│── public/
+│   ├── logo.png      ← Tumhara MX logo
+│   ├── images/
+│
+│── src/
+│   ├── app/
+│   │   ├── page.tsx
+│   │   ├── layout.tsx
+│   │   └── globals.css
+│   ├── components/
+│   │   ├── Navbar.tsx
+│   │   ├── Hero.tsx
+│   │   ├── About.tsx
+│   │   ├── Team.tsx
+│   │   ├── Gallery.tsx
+│   │   ├── Contact.tsx
+│   │   └── Footer.tsx
+│
+│── package.json
+│── tailwind.config.js
